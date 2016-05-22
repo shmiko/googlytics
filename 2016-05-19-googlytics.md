@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Googlytics
 categories: ['google']
-tags: [ 'adwords','analytics']
+tags: [ 'analytics']
 ---
 
 
@@ -13,7 +13,7 @@ Google Analytics - Working towards another certification.
 
 I'm going to write up the steps I am taking to complete another 2 certifications. 
 
-One for Google Analytics and the other for Google Adwords.
+One for Google Analytics and the other for Google Adwords (this will be covered in a seperate post).  
 
 My reason for learning both are that the Adwords is a well need marketing skill for any online business and having starting my own online startup over 12 months ago I need to start thinking about maximising what SEO potential there is.  
 As for Google Analytics well if Adwords are in play I need to know about how effective they are, Analytics to the rescue. Not just for my startup but I'm interested to see what activity all of my various domains are getting.  
@@ -32,6 +32,18 @@ Once you get closer to having a working knowledge you will need to have a develo
 
 And then the next step before attempting to become certified will be to sign up and apply for Google Partner status.  
 
+Ok so starting with Google Analytics using the Google Analytics Academy as our may resource.  
 
+There are 5 courses on offer.  
+
+1.Digital Analytics Fundamentals  
+2.Google Analytics Platform Principles  
+3.Ecommerce Analytics: From Data to Decisions  
+4.Mobile App Analytics Fundamentals  
+5.Google Tag Manager Fundamentals  
+
+Starting with Digital Analytics Fundamentals  
+
+May 21st 2016 - [Lesson 1 Digital Analytics Fundamentals](https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1)
 
 
