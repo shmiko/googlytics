@@ -162,3 +162,7 @@ For mobile apps, you must add extra code to each "activity" you want to track. N
  - Understand how key metrics like "users," "sessions," "bounce rate" and other interaction metrics are calculated.  
  - Understand how time metrics are calculated.  
 
+Reports in Analytics contain dimensions and metrics. Most commonly, you’ll see dimensions and metrics reported in a table, with the first column containing a list of the values for one particular dimension, and the rest of the columns displaying the corresponding metrics.  
+Dimensions describe characteristics of your users, their sessions and actions.  
+Metrics are the quantitative measurements of users,sessions and actions. Metrics are numerical data.  
+
