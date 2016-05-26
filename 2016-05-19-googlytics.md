@@ -145,7 +145,8 @@ Use custom dashboards and custom reports to simplify the reporting process.
 Maintain and Refine  
 The final step is to maintain and refine the plan.  
 
-## 3 Understanding and Using Google Analytics data  
+## 3 Understanding and Using Google Analytics data   
+
 ### 3.1 How Google Analytics works
 There are four main components to the Analytics system: data collection, configuration, data processing and reporting.  
 
@@ -160,4 +161,4 @@ For mobile apps, you must add extra code to each "activity" you want to track. N
  - Define the terms "metrics" and "dimensions" and identify examples of each in Google Analytics.  
  - Understand how key metrics like "users," "sessions," "bounce rate" and other interaction metrics are calculated.  
  - Understand how time metrics are calculated.  
- 
+
